@@ -1,0 +1,1 @@
+# Example Template for SPA1
